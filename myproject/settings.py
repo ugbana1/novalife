@@ -20,7 +20,7 @@ DEBUG = config(
     cast=bool
 )
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["novalifefertilitynetwork.com.ng","185.213.25.200", "www.novalifefertilitynetwork.com.ng"]
 
 
 # APPS
